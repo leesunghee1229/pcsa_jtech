@@ -1,16 +1,16 @@
 {
   "project_info": {
     "project_number": "936412911382",
-    "firebase_url": "https://pcsawebview.firebaseio.com",
-    "project_id": "pcsawebview",
-    "storage_bucket": "pcsawebview.appspot.com"
+    "firebase_url": "https://pcsajtech.firebaseio.com",
+    "project_id": "pcsajtech",
+    "storage_bucket": "pcsajtech.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:936412911382:android:40a8671a0026e865",
         "android_client_info": {
-          "package_name": "kr.pcsa.pscawebview"
+          "package_name": "kr.pcsa.pscajtech"
         }
       },
       "oauth_client": [

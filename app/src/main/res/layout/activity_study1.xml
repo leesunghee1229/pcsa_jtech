@@ -4,7 +4,7 @@
     android:id="@+id/activity_study1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="kr.pcsa.pscawebview.Study1Activity">
+    tools:context="kr.pcsa.pscajtech.Study1Activity">
 
     <Button
         android:text="Button"

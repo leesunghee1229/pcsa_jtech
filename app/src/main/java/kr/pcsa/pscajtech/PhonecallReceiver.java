@@ -1,4 +1,4 @@
-package kr.pcsa.pscawebview;
+package kr.pcsa.pscajtech;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package kr.pcsa.pscawebview;
+package kr.pcsa.pscajtech;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

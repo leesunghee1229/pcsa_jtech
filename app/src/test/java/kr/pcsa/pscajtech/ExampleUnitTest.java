@@ -1,4 +1,4 @@
-package kr.pcsa.pscawebview;
+package kr.pcsa.pscajtech;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package kr.pcsa.pscawebview;
+package kr.pcsa.pscajtech;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
